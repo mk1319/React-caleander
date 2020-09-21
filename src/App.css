@@ -1,0 +1,50 @@
+.table {
+  margin: 0 auto 20px;
+  border:2px solid #6e6767;
+}
+
+.modal-backdrop {
+
+  background-color: #0000;
+
+}
+
+.modal-backdrop{
+  background-color: transparent;
+}
+
+.table tbody tr td{
+  width:150px;
+  height:50px;
+  font-weight: bold;
+  color: black;
+  border:2px solid #9e8989;
+}
+
+.event{
+  margin:2%;
+}
+
+.event tr td{
+  padding:20px;
+}
+
+.Lecture{
+  height: 15px;
+  width: 15px;
+  background-color:#426ff5;
+  border-radius: 50%;
+  display: inline-block;
+}
+.Exam{
+  height:15px;
+  width:15px;
+  background-color:#f54251;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.in-prev-month,
+.in-next-month {
+  opacity: 0.3;
+}
